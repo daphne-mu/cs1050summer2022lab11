@@ -1,0 +1,26 @@
+﻿AC,Name,HP,TH Bonus,Attack 1 damage,Attack 2 Damage
+21,Ahote,90,12,4d6+8,4d6+8
+15,Abominable Yeti,137,6,4d6+7,6d6
+15,Air Elemental,90,8,2d8+5,3d8+2
+13,Allosaurus,51,6,2d10+4,1d8+4
+15,Ankylosaurus,68,7,4d6+4,N/A
+19,Black Dragon - Adult,195,11,2d10+1d8+6,2d6+6
+22,Black Dragon - Ancient,367,15,2d10+2d8+8,2d6+8
+17,Black Dragon - Wyrmling,33,4,1d10+1d4+2,5d8
+18,Black Dragon - Young,127,7,2d10+1d8+4,2d6+4
+11,Brown Bear,34,6,1d8+4,2d6+4
+16,Bugbear,27,4,2d8+2,2d6+2
+17,Bugbear Chief,65,5,2d8+3,2d6+3
+17,Bulette,94,7,4d12+4,N/A
+14,Cloud Giant,200,12,3d8+8,4d10+8
+17,Earth Elemental,126,8,2d8+5,N/A
+12,Elephant,76,8,3d8+5,3d10+5
+15,Frost Giant,138,9,3d12+6,4d10+6
+16,Gladiator,112,7,2d8+4,2d4+4
+11,Ogre,59,6,2d8+4,2d6+4
+8,Ogre Zombie,85,6,2d8+6,N/A
+13,Orc,15,5,1d12+3,1d6+3
+19,Red Dragon - Adult,256,14,2d10+2d6+8,2d6+8
+22,Red Dragon - Ancient,546,17,2d10+4d6+10,2d6+10
+13,Tyrannosaurus Rex,136,10,4d12+7,3d8+7
+8,Zombie,22,3,1d6+1,N/A
